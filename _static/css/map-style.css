@@ -1,0 +1,58 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  background-color: transparent;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.map-container {
+  font-family: space mono;
+  padding: 3.2rem 0.8rem;
+  position: relative;
+  display: inline-block;
+}
+.map-container img {
+  width: 100%;
+}
+.map-container .point {
+  cursor: crosshair;
+  position: absolute;
+  width: 1.3rem;
+  height: 1.3rem;
+  background-color: #ef4b4a;
+  border-radius: 50%;
+  transition: all 0.3s ease;
+  will-change: transform, box-shadow;
+  transform: translate(-50%, -50%);
+  box-shadow: 0 0 0 rgba(239, 75, 74, 0.4);
+  animation: pulse 3s infinite;
+}
+.map-container .point:hover {
+  animation: none;
+  transform: translate(-50%, -50%) scale3D(1.35, 1.35, 1);
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+.map-container .dc {
+  top: 40.5%;
+  left: 26.2%;
+}
+.map-container .seoul {
+  top: 37.5%;
+  left: 81.1%;
+}
+
+@keyframes pulse {
+  0% {
+    box-shadow: 0 0 0 0 rgba(239, 75, 74, 0.5);
+  }
+  70% {
+    box-shadow: 0 0 0 25px rgba(239, 75, 74, 0);
+  }
+  100% {
+    box-shadow: 0 0 0 0 rgba(239, 75, 74, 0);
+  }
+}
