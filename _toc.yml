@@ -3,7 +3,21 @@
 
 format: jb-book
 root: intro
-chapters:
-- file: Culture/culture
-- file: World/world
-- file: History/history
+parts:
+  - caption: Introduction
+    chapters:
+    - file: Culture/culture
+  - caption:  World 🌍
+    chapters:
+    - file: World/world
+  - caption: History
+    chapters:
+    - file: History/history
+    - file: History/1970/70    
+      sections:
+      - file: History/1970/1979
+    - file: History/1980/80    
+      sections:
+      - file: History/1980/1980
+      - file: History/1980/1981
+      - file: History/1980/1982
