@@ -52,10 +52,16 @@ parts:
       - file: History/2000/2007
       - file: History/2000/2008
       - file: History/2000/2009
-  - caption: Peoples
-    chapters:
-    - file: People/Barry
-    - file: People/Vince
   - caption: Science
     chapters:
     - file: Science/Overview
+  - caption: People
+    chapters:
+    - file: People/Members/Members    
+      sections:
+      - file: People/Members/Barry
+      - file: People/Members/Vince
+    - file: People/Contributors/Contributors 
+  - caption: Help
+    chapters:
+    - file: Appendix/Help

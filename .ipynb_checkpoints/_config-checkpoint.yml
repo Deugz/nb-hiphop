@@ -3,7 +3,7 @@
 
 title: Hip-Hop
 author: <a href="https://deugz.github.io/nb-master/_build/html/intro.html" target="_blank">Vincent Deguin </a> & <a href="https://www.breaktothebeat.com/homepage/welcome-to-breaktothebeat-com-2/" target="_blank">Barry Watson </a> (with ❤️)
-logo: _static/logo/logo_SFTP.png
+logo: _static/logo/HLA-Logo.png
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html

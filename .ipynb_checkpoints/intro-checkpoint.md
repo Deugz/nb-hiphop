@@ -1,12 +1,5 @@
-# HipHop 
+# Hip Hop Living Arxiv
 
-Need to find new title and new logo
-
-```{note}
-
-Early development phase
-
-```
 
 ## Introduction
 
