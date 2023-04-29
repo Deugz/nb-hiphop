@@ -64,4 +64,5 @@ parts:
     - file: People/Contributors/Contributors 
   - caption: Help
     chapters:
+    - file: Appendix/bibliography
     - file: Appendix/Help

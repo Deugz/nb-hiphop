@@ -24,3 +24,12 @@ In this section we want to talk about the different aspects of the hip-hop cultu
 
 
 ## Graffity
+
+
+## More ?
+
+- Double Dutch: [Wikipedia](https://fr.wikipedia.org/wiki/Double_Dutch)
+
+- Sneakers and general fashion style
+
+- Basketball

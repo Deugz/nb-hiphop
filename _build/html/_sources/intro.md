@@ -74,3 +74,7 @@ May be a form for people that want to contribute
 - I think we need to implement some content first
     - General Introduction to hip-hop (how it is born, how it evolve, etc)
     
+### Docs to explore:
+
+- [French](https://www.urban-culture.fr/documentation/la-culture-hip-hop-a-la-rencontre-des-.pdf)
+    
