@@ -10,12 +10,23 @@
 ::::{grid} 2
 
 :::{grid-item}
+:columns: 3
+
+```{image} ../_static/logo/jhhs.png
+
+```
+
+***
 
 - [Link](https://scholarscompass.vcu.edu/jhhs/)
 
 :::
 
 :::{grid-item}
+:columns: 9
+
+<div id="rdr-embed" data-width="100%" data-height="720" style="width:100%; max-width:1024px; border:0;"></div>
+
 
 :::
 
@@ -25,8 +36,6 @@
 
 
 
-
-<div id="rdr-embed" data-width="100%" data-height="720" style="width:100%; max-width:1024px; border:0;"></div>
 
 
 
