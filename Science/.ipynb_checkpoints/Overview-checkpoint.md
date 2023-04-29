@@ -1,3 +1,71 @@
+# Overview
+
+## Accademic Litteracy
+
+### Journal of Hip Hop Studies
+
+
+:::::{div} full-width
+
+::::{grid} 2
+
+:::{grid-item}
+
+- [Link](https://scholarscompass.vcu.edu/jhhs/)
+
+:::
+
+:::{grid-item}
+
+:::
+
+::::
+
+:::::
+
+
+
+
+<div id="rdr-embed" data-width="100%" data-height="720" style="width:100%; max-width:1024px; border:0;"></div>
+
+
+
+## Science questions
+
+
+### Hip Hop / HipHop / hiphop / hip-hop ... ?
+
+```{note}
+
+Find some scientific articles 
+
+```
+
+### Hip Hop and Feminism
+
+- {cite:p}`Halliday2020`
+
+
+
+### Hip Hop and drugs
+
+- {cite:p}`Smiley2017`
+
+- [**DJ Screw** - *My Mind Went Blank* (Youtube)](https://www.youtube.com/watch?v=K_h55O66uf0)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <script> 
    window.rdrAsync = function() { 
      RDR.init({ 
@@ -27,58 +95,6 @@
        stats_host: "https://resources.bepress.com", 
      }); 
    }; 
- </script> 
- <script src="https://assets.bepress.com/current/shared/embed/rdr.js" async="true"></script>
+</script> 
+<script src="https://assets.bepress.com/current/shared/embed/rdr.js" async="true"></script>
 
-
-
-# Overview
-
-## Accademic Litteracy
-
-### Journal of Hip Hop Studies
-
-
-:::::{div} full-width
-
-::::{grid} 2
-
-:::{grid-item}
-
-- [Link](https://scholarscompass.vcu.edu/jhhs/)
-
-:::
-
-:::{grid-item}
-
-<div id="rdr-embed" data-width="100%" data-height="720" style="width:100%; max-width:1024px; border:0;"></div>
-
-:::
-
-::::
-
-:::::
-
-
-## Science questions
-
-
-### Hip Hop / HipHop / hiphop / hip-hop ... ?
-
-```{note}
-
-Find some scientific articles 
-
-```
-
-### Hip Hop and Feminism
-
-- {cite:p}`Halliday2020`
-
-
-
-### Hip Hop and drugs
-
-- {cite:p}`Smiley2017`
-
-- [**DJ Screw** - *My Mind Went Blank* (Youtube)](https://www.youtube.com/watch?v=K_h55O66uf0)
