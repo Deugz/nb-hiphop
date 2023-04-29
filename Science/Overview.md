@@ -10,9 +10,11 @@
 ::::{grid} 2
 
 :::{grid-item}
-:columns: 3
+:columns: 4
 
 ```{image} ../_static/logo/jhhs.png
+:width: 80%
+:align: center
 
 ```
 
@@ -23,10 +25,9 @@
 :::
 
 :::{grid-item}
-:columns: 9
+:columns: 8
 
-<div id="rdr-embed" data-width="100%" data-height="720" style="width:100%; max-width:1024px; border:0;"></div>
-
+<div id="rdr-embed" data-width="100%" data-height="400" style="width:100%; max-width:666px; border:0;"></div>
 
 :::
 
