@@ -13,7 +13,7 @@
 :columns: 4
 
 ```{image} ../_static/logo/jhhs.png
-:width: 80%
+:width: 70%
 :align: center
 
 ```
@@ -36,6 +36,11 @@
 :::::
 
 
+### Journal of the Society for American Music
+
+
+
+
 
 
 
@@ -55,6 +60,7 @@ Find some scientific articles
 
 - {cite:p}`Halliday2020`
 
+- {cite:p}`Horsley2020`
 
 
 ### Hip Hop and drugs

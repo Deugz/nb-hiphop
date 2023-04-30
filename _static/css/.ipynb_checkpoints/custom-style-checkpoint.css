@@ -11,6 +11,19 @@ h1 {
     color: black !important; 
 }
 
+.emphase {
+    font-size:1.4em;
+    padding:20px;
+    text-align:center;
+}
+
+.emphase2 {
+    font-size:2.6em;
+    padding:20px;
+    text-align:center;
+    color: #412582  !important;
+}
+
 
 
 
