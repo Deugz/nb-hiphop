@@ -1,4 +1,6 @@
-# Hip Hop Living Arxiv
+# Music
+
+
 
 
 ## Introduction
@@ -48,7 +50,7 @@
 
 <p class="emphase2"><strong>HipHop</strong></p>
 
-<p class="emphase">We want to describe HipHop:</p>
+<p class="emphase">We want to describe all the aspects of HipHop:</p>
 
 <br>
 
@@ -121,7 +123,25 @@ Description
 
 ::::
 
+
+
+<br>
+<br>
+
+<p class="emphase2"><strong>Together</strong> 🤝</p>
+
+<p class="emphase">Our aim is to bring together multiple actors to produce a lively and free Encyclopediae of HipHop</p>
+
 :::::
+
+
+```{note}
+
+Longer paragraph to explain our method
+
+```
+
+
 
 
 ### A Collaborative Project Between ...

@@ -11,6 +11,11 @@ h1 {
     color: black !important; 
 }
 
+img[alt$=">"] {
+  width: 20px !important;
+  margin: 5px !important;
+}
+
 .emphase {
     font-size:1.4em;
     padding:20px;
